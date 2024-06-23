@@ -2,6 +2,24 @@
 By - Mohammed Soahil Mirza
 
 
-Machine Learning - Machine learning is a subfield of artificial intelligence that involves training algorithms to learn from data, allowing them to make predictions, classify objects, or make decisions without being explicitly programmed. The goal of machine learning is to enable machines to improve their performance on a task over time, based on the data they receive.
+Machine Learning - Machine learning is a subfield of artificial intelligence that involves 
+training algorithms to learn from data, allowing them to make predictions, classify objects, 
+or make decisions without being explicitly programmed. The goal of machine learning is to enable 
+machines to improve their performance on a task over time, based on the data they receive.
 
-Machine learning algorithms work by analyzing large datasets and identifying patterns, relationships, and correlations within the data. This analysis enables the algorithm to make predictions or take actions based on new, unseen data.
+Machine learning algorithms work by analyzing large datasets and identifying patterns, 
+relationships, and correlations within the data. This analysis enables the algorithm 
+to make predictions or take actions based on new, unseen data.
+
+
+
+There are three main types of machine learning:
+
+1 - Supervised Learning: The algorithm is trained on labeled data, where the correct output is 
+already known. The algorithm learns to map inputs to outputs based on the labeled data.
+
+2 - Unsupervised Learning: The algorithm is trained on unlabeled data, and it must find patterns 
+or structure within the data on its own.
+
+3 - Reinforcement Learning: The algorithm learns by interacting with an environment and receiving 
+feedback in the form of rewards or penalties.
